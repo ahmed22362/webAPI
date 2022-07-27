@@ -6,7 +6,8 @@
 * [Setup](#setup)
 
 ## General info
-	The web API creates, reads, updates, and deletes pizzas from an in-memory cache.
+
+The web API creates, reads, updates, and deletes pizzas from an in-memory cache.
   Creating a new application by using the ASP.NET Core Web API template.
   Creating classes that inherit from the ControllerBase class and that contain methods that respond to HTTP requests
 
